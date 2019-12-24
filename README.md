@@ -39,8 +39,5 @@ This is only for legacy systems where Organization Service is supported and the 
 ## Authors
 * **Sukumar Hakhoo** - [kuramus](https://github.com/kuramus)
 
-## License
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Built With
 * [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
