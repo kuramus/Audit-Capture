@@ -37,7 +37,7 @@ This is only for legacy systems where Organization Service is supported and the 
 2. Click on the *Get Audit (Using Org Service)* button to fetch the audit and create the spreadsheet.
 
 ## Authors
-* **Sukumar Hakhoo** - [kuramus](https://github.com/kuramus)
+* **Sukumar Hakhoo** - [sukumarh](https://github.com/kuramus)
 
 ## Built With
 * [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
